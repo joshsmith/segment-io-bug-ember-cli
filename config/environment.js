@@ -43,5 +43,7 @@ module.exports = function(environment) {
 
   }
 
+  ENV.SEGMENT_IO_API_KEY = 'yl99fjee1s';
+
   return ENV;
 };
